@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=120&section=header&text=ABOUT%20ME&fontColor=ff0000&fontSize=25"/>
-
-<div align="center">
-
 <!-- CARTI HEADER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:1a0000,100:0d0d0d&height=200&section=header&text=AADITYA%20JAISWAR&fontSize=55&fontColor=ff0000&fontAlignY=55&desc=SDE%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20DEVOPS&descAlignY=78&descSize=18&descColor=ffffff&animation=twinkling&stroke=ff0000&strokeWidth=2" />
 
@@ -329,8 +325,8 @@ vibe        = "🔴 WHOLE LOTTA RED"
       <div align="center">
 
 <pre>
- 'cxxxxxxxxxxxxxxxxxkkkkkxxddddddxxxxxxdddooddxxxxxdddooooddddoddxxxxxxxxxdddooddc                
-        cxxxxxxxxxdxxxxxxkkkkkkkxddddxxkkkkkxxxdddxkkkkkkxxdooooodxxxdxxxxxxxxxxddoooddc                
+     'cxxxxxxxxxxxxxxxxxkkkkkxxddddddxxxxxxdddooddxxxxxdddooooddddoddxxxxxxxxxdddooddc                
+      cxxxxxxxxxdxxxxxxkkkkkkkxddddxxkkkkkxxxdddxkkkkkkxxdooooodxxxdxxxxxxxxxxddoooddc                
        cxxxxxxxxxxxxkxxkxxxxxxddxxxxxkxxddddoooooooxxxxxxxxdooooodxxkkkxxxxxxxxxddodddc                
        cxxxxxxxxxxkkkxOOOkkkkxxxxxxxxxdddddool:;;,',codddddoooodooddxxxxkxxxxxxxddodddc                
        cxxxxxxkkkOkkxxkOkOOOOOOkkxxxxkkkxdddo:'''''',,cdddddoooddddxkkkOOkkOOkxddoddddc                
@@ -367,5 +363,4 @@ vibe        = "🔴 WHOLE LOTTA RED"
        :oooooddddddoooooddddooooooddddl.....;:;,.................ldddddddddddxxxxxxdddc'
 </pre>
 
-</div>
 </div>
