@@ -1,12 +1,12 @@
 <div align="center">
 
-<!-- CARTI HEADER BANNER -->
+<!-- HEADER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:1a0000,100:0d0d0d&height=200&section=header&text=AADITYA%20JAISWAR&fontSize=55&fontColor=ff0000&fontAlignY=55&desc=SDE%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20DEVOPS&descAlignY=78&descSize=18&descColor=ffffff&animation=twinkling&stroke=ff0000&strokeWidth=2" />
 
-<!-- GLITCH TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fragment+Mono&weight=900&size=18&duration=2000&pause=500&color=FF0000&center=true&vCenter=true&width=800&height=50&lines=%E2%96%88+WHOLE+LOTTA+RED+%E2%96%88+FULL+STACK+ENGINEER;%E2%96%88+MULTI-AGENT+AI+ARCHITECT+%E2%96%88+LLM+SYSTEMS;%E2%96%88+BUILDING+SCALABLE+INFRA+%E2%96%88+MUMBAI+%F0%9F%87%AE%F0%9F%87%B3;%E2%96%88+GROQ+%2B+LANGGRAPH+%2B+KAFKA+%E2%96%88+ALL+DAY;%E2%96%88+OPIUM+GANG+IN+THE+CODE+%E2%96%88" alt="Typing SVG" />
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=Fragment+Mono&weight=900&size=18&duration=2000&pause=500&color=FF0000&center=true&vCenter=true&width=800&height=50&lines=%E2%96%88+FULL+STACK+ENGINEER+%E2%96%88+MULTI-AGENT+AI+ARCHITECT;%E2%96%88+LLM+SYSTEMS+%E2%96%88+RAG+PIPELINES+%E2%96%88+LANGGRAPH;%E2%96%88+EVENT-DRIVEN+MICROSERVICES+%E2%96%88+KAFKA+%E2%96%88+FASTAPI;%E2%96%88+NATIONAL+HACKATHON+WINNER+%E2%96%88+MUMBAI+%F0%9F%87%AE%F0%9F%87%B3;%E2%96%88+BUILDING+SYSTEMS+THAT+THINK%2C+SCALE%2C+AND+HEAL+%E2%96%88" alt="Typing SVG" />
 
-<!-- BADGES ROW -->
+<!-- CONTACT BADGES -->
 <p>
   <a href="https://linkedin.com/in/aadityaaaaa">
     <img src="https://img.shields.io/badge/LINKEDIN-AADITYAAAAA-FF0000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d" />
@@ -28,41 +28,52 @@
 
 ---
 
-██╗    ██╗██╗  ██╗ ██████╗ ██╗     ███████╗    ██╗      ██████╗ ████████╗████████╗ █████╗     ██████╗ ███████╗██████╗ 
-██║    ██║██║  ██║██╔═══██╗██║     ██╔════╝    ██║     ██╔═══██╗╚══██╔══╝╚══██╔══╝██╔══██╗    ██╔══██╗██╔════╝██╔══██╗
-██║ █╗ ██║███████║██║   ██║██║     █████╗      ██║     ██║   ██║   ██║      ██║   ███████║    ██████╔╝█████╗  ██║  ██║
-██║███╗██║██╔══██║██║   ██║██║     ██╔══╝      ██║     ██║   ██║   ██║      ██║   ██╔══██║    ██╔══██╗██╔══╝  ██║  ██║
-╚███╔███╔╝██║  ██║╚██████╔╝███████╗███████╗    ███████╗╚██████╔╝   ██║      ██║   ██║  ██║    ██║  ██║███████╗██████╔╝
- ╚══╝╚══╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚══════╝    ╚══════╝ ╚═════╝    ╚═╝      ╚═╝   ╚═╝  ╚═╝    ╚═╝  ╚═╝╚══════╝╚═════╝
+```
+██╗    ██╗██╗  ██╗ ██████╗     ██╗     ██████╗ ████████╗████████╗ █████╗     ██████╗ ███████╗██████╗ 
+██║    ██║██║  ██║██╔═══██╗    ██║    ██╔═══██╗╚══██╔══╝╚══██╔══╝██╔══██╗    ██╔══██╗██╔════╝██╔══██╗
+██║ █╗ ██║███████║██║   ██║    ██║    ██║   ██║   ██║      ██║   ███████║    ██████╔╝█████╗  ██║  ██║
+██║███╗██║██╔══██║██║   ██║    ██║    ██║   ██║   ██║      ██║   ██╔══██║    ██╔══██╗██╔══╝  ██║  ██║
+╚███╔███╔╝██║  ██║╚██████╔╝    ███████╗╚██████╔╝   ██║      ██║   ██║  ██║    ██║  ██║███████╗██████╔╝
+ ╚══╝╚══╝ ╚═╝  ╚═╝ ╚═════╝     ╚══════╝ ╚═════╝    ╚═╝      ╚═╝   ╚═╝  ╚═╝    ╚═╝  ╚═╝╚══════╝╚═════╝
+```
 
 ---
 
 ## `[ 👤 ABOUT ME ]`
 
-> *"I build AI systems that negotiate freight rates and health apps that win national hackathons."*
+> *"I architect multi-agent AI systems that autonomously negotiate freight rates, and build cross-platform health ecosystems that win ₹1,00,000 national prizes. Code that thinks. Infrastructure that scales. Products that matter."*
 
 ```yaml
-name        : Aaditya Jaiswar
-alias       : aad1tyaaaaa
-location    : Mumbai, India 🇮🇳
-role        : Full-Stack Engineer · AI/ML Enthusiast · DevOps Practitioner
-degree      : BTech Electronics & CS — Shah & Anchor Kutchhi Engineering College
-gpa         : 8.72 / 10.0
-status      : SDE Intern @ Periscope Technologies [Feb 2026 → Present]
+name         : Aaditya Jaiswar
+alias        : aad1tyaaaaa
+location     : Mumbai, India 🇮🇳
+role         : Full-Stack Engineer · AI/ML Engineer · DevOps Practitioner
+degree       : B.Tech — Electronics & Computer Science
+institution  : Shah & Anchor Kutchhi Engineering College, Mumbai
+gpa          : 8.72 / 10.0
+status       : SDE Intern @ Periscope Technologies  [Feb 2026 → Present]
 ```
 
 ```python
-currently_grinding = [
-    "LangGraph",
-    "RAG Pipelines",
-    "Event-Driven Architectures",
-    "IoT + Healthcare Tech",
-    "Multi-Agent AI Systems"
+currently_building = {
+    "AI Systems"        : ["LangGraph stateful agents", "RAG pipelines", "FAISS vector memory"],
+    "Backend Infra"     : ["Event-driven microservices", "Kafka streams", "Async task queues"],
+    "IoT & Healthcare"  : ["Real-time wearable data ingestion", "HIPAA-compliant architectures"],
+    "Frontend"          : ["Next.js dashboards", "Flutter cross-platform apps"],
+}
+
+expertise = [
+    "Multi-Agent LLM Systems",       # LangGraph, LangChain, Groq (Llama-3)
+    "Full-Stack Engineering",         # React, Next.js, Django, FastAPI, Flutter
+    "Distributed Systems",            # Kafka, Celery, Redis, WebSockets
+    "RAG & Vector Search",            # FAISS, Supabase, semantic retrieval
+    "MLOps & LLM Fine-Tuning",        # HuggingFace PEFT, LoRA, Airflow
+    "Cloud & Container Orchestration" # Docker, Kubernetes, AWS, GCP, GitHub Actions
 ]
 
 open_to     = ["SDE Roles", "AI/ML Engineering", "Full-Stack Opportunities"]
 contact     = "aadityaaaaa.jaiswar@gmail.com"
-vibe        = "🔴 WHOLE LOTTA RED"
+philosophy  = "Build systems that think, scale, and heal — one commit at a time."
 ```
 
 ---
@@ -70,61 +81,93 @@ vibe        = "🔴 WHOLE LOTTA RED"
 ## `[ 🏢 EXPERIENCE ]`
 
 <details>
-<summary><b>🔴 Periscope Technologies — SDE Intern &nbsp;&nbsp; <code>Feb 2026 → Present</code></b></summary>
+<summary><b>🔴 Periscope Technologies — Software Development Engineer Intern &nbsp;&nbsp; <code>Feb 2026 → Present</code></b></summary>
 <br>
 
+> Healthcare infrastructure engineering — IoT-driven, microservice-first, security-hardened.
+
 ```
-╔══════════════════════════════════════════════════════════════╗
-║  🔐  RBAC & Security                                         ║
-║      → 4 Admin personas via JWT auth                         ║
-║      → 30% ↓ clinical data retrieval latency                 ║
-║         via query caching + indexing                         ║
-╠══════════════════════════════════════════════════════════════╣
-║  ⚙️   Microservices & IoT                                     ║
-║      → Event-driven microservices on Kafka                   ║
-║      → Real-time IoT wearable data ingestion                 ║
-╠══════════════════════════════════════════════════════════════╣
-║  🚀  System Throughput                                       ║
-║      → FastAPI + Celery async processing                     ║
-║      → 35% ↑ system throughput                               ║
-╚══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  🔐  Role-Based Access Control (RBAC) & Clinical Security                    ║
+║      → Designed and implemented 4 distinct admin personas using              ║
+║         JWT-based stateless authentication with fine-grained                 ║
+║         permission scoping across all clinical data endpoints                ║
+║      → Reduced clinical data retrieval latency by 30% through               ║
+║         strategic query caching (Redis) and composite DB indexing            ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║  ⚙️   Event-Driven Microservices & Real-Time IoT Ingestion                    ║
+║      → Architected event-driven microservice pipelines on Apache Kafka       ║
+║         to handle real-time telemetry from IoT wearable devices              ║
+║      → Designed Kafka consumers with idempotent processing and               ║
+║         dead-letter queue (DLQ) error recovery for zero data loss            ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║  🚀  Async Processing & Throughput Optimization                               ║
+║      → Implemented FastAPI + Celery asynchronous task queue for              ║
+║         computationally intensive health data operations                     ║
+║      → Achieved 35% improvement in overall system throughput through         ║
+║         non-blocking I/O patterns and worker pool configuration              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 ```
+
+**Stack:** `FastAPI` `Kafka` `Celery` `Redis` `JWT` `PostgreSQL` `Docker` `IoT`
 
 </details>
 
+---
+
 <details>
-<summary><b>🟠 Bluestock — SDE Intern &nbsp;&nbsp; <code>Oct 2025 → Nov 2025</code></b></summary>
+<summary><b>🟠 Bluestock Fintech — Software Development Engineer Intern &nbsp;&nbsp; <code>Oct 2025 → Nov 2025</code></b></summary>
 <br>
 
+> Full-stack engineering on a high-compliance financial platform handling IPO data and investor workflows.
+
 ```
-╔══════════════════════════════════════════════════════════════╗
-║  🏗️   Full-Stack Orchestration                               ║
-║      → IPO management platform: React.js + Django REST       ║
-║      → 40% ↑ review workflows via DB query refactoring       ║
-╠══════════════════════════════════════════════════════════════╣
-║  🔒  Secure API Engineering                                  ║
-║      → RESTful endpoints + OAuth 2.0 + rate-limiting         ║
-║      → Processed 500+ sensitive financial documents          ║
-╚══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  🏗️   Full-Stack IPO Management Platform                                      ║
+║      → Built end-to-end IPO lifecycle management features using              ║
+║         React.js (frontend) and Django REST Framework (backend)              ║
+║      → Accelerated financial review workflows by 40% through                 ║
+║         targeted PostgreSQL query refactoring — eliminated N+1               ║
+║         queries using select_related, prefetch_related, and indexing         ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║  🔒  Secure RESTful API Engineering                                           ║
+║      → Designed RESTful API layer with OAuth 2.0 authentication,             ║
+║         JWT token management, and rate-limiting middleware                   ║
+║      → Processed and secured 500+ sensitive financial documents              ║
+║         with input validation, CSRF protection, and audit logging            ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 ```
+
+**Stack:** `React.js` `Django REST` `PostgreSQL` `OAuth 2.0` `JWT` `Redis`
 
 </details>
 
+---
+
 <details>
-<summary><b>🟣 Ibtidaa Tech — AI Intern &nbsp;&nbsp; <code>Jul 2025 → Aug 2025</code></b></summary>
+<summary><b>🟣 Ibtidaa Tech — Artificial Intelligence Intern &nbsp;&nbsp; <code>Jul 2025 → Aug 2025</code></b></summary>
 <br>
 
+> LLM fine-tuning and automated ML pipeline engineering for domain-specific NLP applications.
+
 ```
-╔══════════════════════════════════════════════════════════════╗
-║  🧠  LLM Optimization                                        ║
-║      → Fine-tuned LLMs via HuggingFace PEFT/LoRA             ║
-║      → 15% ↑ contextual accuracy via instruction tuning      ║
-╠══════════════════════════════════════════════════════════════╣
-║  🔄  Automated ETL                                           ║
-║      → Python + Apache Airflow pipelines                     ║
-║      → 25% ↓ evaluation benchmarking time                    ║
-╚══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  🧠  LLM Fine-Tuning & Contextual Accuracy Optimization                       ║
+║      → Fine-tuned large language models using HuggingFace PEFT               ║
+║         with LoRA adapters for parameter-efficient domain adaptation         ║
+║      → Improved contextual response accuracy by 15% via custom               ║
+║         instruction-tuning datasets and systematic prompt engineering        ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║  🔄  Automated ETL Pipelines & Evaluation Infrastructure                      ║
+║      → Engineered Python-based ETL pipelines orchestrated via                ║
+║         Apache Airflow DAGs for automated training data ingestion,           ║
+║         transformation, and versioning                                       ║
+║      → Reduced evaluation benchmarking cycle time by 25% through            ║
+║         parallelized scoring jobs and automated reporting dashboards         ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 ```
+
+**Stack:** `Python` `HuggingFace` `PEFT` `LoRA` `Apache Airflow` `PyTorch` `Pandas`
 
 </details>
 
@@ -133,44 +176,89 @@ vibe        = "🔴 WHOLE LOTTA RED"
 ## `[ 🚀 PROJECTS ]`
 
 ### `📦 Asset Tracking System`
-> Django · Python · PostgreSQL · Redis · GitHub Actions · React.js
+> Enterprise-grade asset lifecycle management with real-time observability and production CI/CD.
+
+**Stack:** `Django` `Python` `PostgreSQL` `Redis` `React.js` `GitHub Actions` `Prometheus`
 
 ```
-▸ Scalable Django asset tracking — multi-location management
-▸ Full CRUD + select_related / prefetch_related DB optimization
-▸ Redis-backed caching + Prometheus-style real-time metrics
-▸ Responsive analytics dashboard + comprehensive test suites
-▸ Production CI/CD pipelines via GitHub Actions
-```
+▸ Built a scalable multi-location asset tracking platform using Django ORM with
+  full CRUD operations, optimized via select_related / prefetch_related to
+  eliminate N+1 queries and reduce database round-trips by up to 60%
 
-[![GitHub](https://img.shields.io/badge/VIEW_PROJECT-0d0d0d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aad1tyaaaaa)
+▸ Integrated Redis-backed caching layer for frequently queried asset states,
+  with TTL-based invalidation strategies for consistency
 
----
+▸ Implemented Prometheus-style real-time metrics collection and surfaced them
+  via a responsive React.js analytics dashboard with filterable drill-downs
 
-### `🤝 Negotiara AI — Multi-Agent Negotiation System`
-> FastAPI · LangGraph · Next.js · Redis · Supabase · Groq (Llama-3) · FAISS
+▸ Wrote comprehensive unit and integration test suites achieving >85% coverage,
+  with automated test execution on every PR via GitHub Actions CI/CD pipelines
 
-```
-▸ Stateful multi-agent LangGraph system for freight rate negotiation
-▸ Groq (Llama-3) high-speed inference engine
-▸ Distributed microservices: Node.js + Python decoupled architecture
-▸ RAG pipeline with FAISS vector memory for risk-adjusted concessions
-▸ Real-time decision streaming via Socket.io + Redis
+▸ Containerized the full application stack using Docker with multi-stage builds
+  for optimized production image sizes
 ```
 
 [![GitHub](https://img.shields.io/badge/VIEW_PROJECT-0d0d0d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aad1tyaaaaa)
 
 ---
 
-### `🏥 ArogyaSense — AI Health Ecosystem` &nbsp; 🏆 ₹1,00,000 WINNER
-> Flutter · Dart · Firebase · Provider · GROQ API
+### `🤝 Negotiara AI — Stateful Multi-Agent Freight Negotiation System`
+> Autonomous AI agents that negotiate B2B freight pricing in real-time using RAG-augmented decision logic.
+
+**Stack:** `FastAPI` `LangGraph` `Next.js` `Redis` `Supabase` `Groq (Llama-3)` `FAISS` `Socket.io` `Node.js`
 
 ```
-▸ Cross-platform Flutter app — modular feature-based architecture
-▸ Serverless Firebase backend — Firestore + MFA Auth
-▸ AI-driven health analytics via LLM APIs
-▸ Custom shimmer UI + local notification engine
-▸ HIPAA-compliant encrypted data-sharing module
+▸ Designed a stateful multi-agent orchestration framework using LangGraph,
+  where buyer and seller agents maintain negotiation state across turns with
+  persistent memory, backtracking logic, and concession-rate decay functions
+
+▸ Powered inference with Groq's Llama-3 engine for sub-100ms agent response
+  latency — critical for real-time negotiation cadence
+
+▸ Implemented a RAG pipeline backed by FAISS vector store to retrieve
+  historical freight rate embeddings, enabling risk-adjusted concession
+  strategies grounded in real market data
+
+▸ Decoupled frontend (Next.js) and backend (FastAPI + Node.js) via a
+  distributed microservices architecture, with Redis pub/sub for inter-service
+  messaging and Socket.io for real-time decision streaming to the UI
+
+▸ Engineered agent tool-use and function-calling chains in LangGraph for
+  dynamic rate calculation, market condition lookups, and deal finalization
+```
+
+[![GitHub](https://img.shields.io/badge/VIEW_PROJECT-0d0d0d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aad1tyaaaaa)
+
+---
+
+### `🏥 ArogyaSense — AI-Powered Cross-Platform Health Ecosystem` &nbsp; 🏆 `₹1,00,000 NATIONAL WINNER`
+> A modular, HIPAA-aware health management app combining LLM-driven diagnostics with a production-grade serverless backend.
+
+**Stack:** `Flutter` `Dart` `Firebase` `Firestore` `Provider` `Groq API` `LLM`
+
+```
+▸ Architected a cross-platform Flutter application using a modular
+  feature-based folder structure — clean separation of data, domain, and
+  presentation layers for scalable, testable codebase
+
+▸ Deployed a fully serverless Firebase backend using Firestore (NoSQL
+  real-time database) with Multi-Factor Authentication (MFA) for secure
+  user identity and health data access control
+
+▸ Integrated Groq LLM APIs for AI-driven health analytics: symptom
+  triage, personalized health insights, and treatment recommendation
+  summaries based on user-reported data
+
+▸ Built a custom shimmer loading UI component system and a local push
+  notification engine for medication reminders and health alerts,
+  improving daily active engagement metrics
+
+▸ Engineered an end-to-end HIPAA-compliant encrypted data-sharing module
+  for secure patient-to-provider record transmission with AES encryption
+  and tokenized access control
+
+▸ Won ₹1,00,000 cash prize at a national hackathon hosted by Periscope
+  Technologies, competing against 200+ teams across India
 ```
 
 [![GitHub](https://img.shields.io/badge/VIEW_PROJECT-0d0d0d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aad1tyaaaaa)
@@ -204,7 +292,7 @@ vibe        = "🔴 WHOLE LOTTA RED"
 ![Express.js](https://img.shields.io/badge/Express-0d0d0d?style=for-the-badge&logo=express&logoColor=FF0000)
 ![GSAP](https://img.shields.io/badge/GSAP-0d0d0d?style=for-the-badge&logo=greensock&logoColor=FF0000)
 
-### `🗄️ Databases`
+### `🗄️ Databases & Storage`
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=FF0000)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0d0d0d?style=for-the-badge&logo=mongodb&logoColor=FF0000)
 ![MySQL](https://img.shields.io/badge/MySQL-0d0d0d?style=for-the-badge&logo=mysql&logoColor=FF0000)
@@ -224,7 +312,7 @@ vibe        = "🔴 WHOLE LOTTA RED"
 ![Pandas](https://img.shields.io/badge/Pandas-0d0d0d?style=for-the-badge&logo=pandas&logoColor=FF0000)
 ![NumPy](https://img.shields.io/badge/NumPy-0d0d0d?style=for-the-badge&logo=numpy&logoColor=FF0000)
 
-### `☁️ DevOps & Cloud`
+### `☁️ DevOps, Cloud & Infrastructure`
 ![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&logo=docker&logoColor=FF0000)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-0d0d0d?style=for-the-badge&logo=kubernetes&logoColor=FF0000)
 ![AWS](https://img.shields.io/badge/AWS-0d0d0d?style=for-the-badge&logo=amazon-aws&logoColor=FF0000)
@@ -242,23 +330,28 @@ vibe        = "🔴 WHOLE LOTTA RED"
 ## `[ 🏆 ACHIEVEMENTS — HALL OF FAME ]`
 
 ```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                                                                             │
-│  🥇  1ST PLACE  ·  National Hackathon                                       │
-│      Project ArogyaSense  ·  ₹1,00,000 Cash Prize                           │
-│      Hosted by Periscope Technologies                                       │
-│                                                                             │
-│  🥉  2ND RUNNER-UP  ·  DEEP BLUE National Hackathon                         │
-│      AI-Based Food Freshness Detection                                      │
-│      MASTEK · MAJESCO Season 10                                             │
-│      Won ₹50,000 Cash Prize                                                 │
-│  🏅  TOP 20 FINALIST  ·  Somaiya Riidl Hackathon                            │
-│                                                                             │
-│  🏅  FINALIST  ·  SAKEC CREATHON 2025                                       │
-│                                                                             │
-│  🏅  FINALIST  ·  ODOOXSPIT Hackathon  ·  ODOO                              │
-│                                                                             │
-└─────────────────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────────────────┐
+│                                                                                 │
+│  🥇  1ST PLACE — National Healthcare Hackathon                                  │
+│      Project: ArogyaSense — AI-Powered Health Ecosystem                         │
+│      Prize: ₹1,00,000 Cash  ·  Host: Periscope Technologies                    │
+│      Competed against 200+ teams across India                                   │
+│                                                                                 │
+│  🥉  2ND RUNNER-UP — DEEP BLUE National AI Hackathon                            │
+│      Project: AI-Based Food Freshness Detection System                          │
+│      Prize: ₹50,000 Cash  ·  Host: MASTEK · MAJESCO Season 10                  │
+│      Applied computer vision (OpenCV + CNN) for real-time freshness scoring     │
+│                                                                                 │
+│  🏅  TOP 20 FINALIST — Somaiya RIIDL Innovation Hackathon                      │
+│      Shortlisted from 500+ applicants across Maharashtra                        │
+│                                                                                 │
+│  🏅  FINALIST — SAKEC CREATHON 2025                                             │
+│      Product innovation challenge at Shah & Anchor Kutchhi Engineering College  │
+│                                                                                 │
+│  🏅  FINALIST — ODOO x SPIT Hackathon                                           │
+│      Enterprise ERP customization challenge in partnership with ODOO            │
+│                                                                                 │
+└─────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -298,6 +391,21 @@ vibe        = "🔴 WHOLE LOTTA RED"
 
 ---
 
+## `[ 📬 LET'S CONNECT ]`
+
+> I'm actively looking for **SDE**, **AI/ML Engineering**, and **Full-Stack** opportunities.
+> Whether you're building at the intersection of infrastructure and intelligence — let's talk.
+
+```
+📧  aadityaaaaa.jaiswar@gmail.com
+📱  +91 77100 24884
+💼  linkedin.com/in/aadityaaaaa
+🐙  github.com/aad1tyaaaaa
+📍  Mumbai, India 🇮🇳
+```
+
+---
+
 <div align="center">
 
 ```
@@ -314,47 +422,5 @@ vibe        = "🔴 WHOLE LOTTA RED"
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a0000,50:0d0d0d,100:1a0000&height=120&section=footer&text=WHOLE+LOTTA+RED&fontSize=30&fontColor=ff0000&fontAlignY=55&animation=twinkling&stroke=ff0000&strokeWidth=1" />
-
-</div>
-      <div align="center">
-
-<pre>
-     'cxxxxxxxxxxxxxxxxxkkkkkxxddddddxxxxxxdddooddxxxxxdddooooddddoddxxxxxxxxxdddooddc                
-      cxxxxxxxxxdxxxxxxkkkkkkkxddddxxkkkkkxxxdddxkkkkkkxxdooooodxxxdxxxxxxxxxxddoooddc                
-       cxxxxxxxxxxxxkxxkxxxxxxddxxxxxkxxddddoooooooxxxxxxxxdooooodxxkkkxxxxxxxxxddodddc                
-       cxxxxxxxxxxkkkxOOOkkkkxxxxxxxxxdddddool:;;,',codddddoooodooddxxxxkxxxxxxxddodddc                
-       cxxxxxxkkkOkkxxkOkOOOOOOkkxxxxkkkxdddo:'''''',,cdddddoooddddxkkkOOkkOOkxddoddddc                
-       cxxxxxxkkOOkxkOOOOOOOkkkxxxxxxxkkxxddl:::::cc:,,dkxxdooodxxkkkOOOOkxkkkxddoddddc                
-       cxkkkkkxxxxxkOOOOkkkxxxxkkxxkkxxxxxdo:ccccllll:;odooddooodddxkkOOOOkxddxxxddxxxc                
-       lkOOOOOkxxxkO0OOkxxxxxxOOkxxxxxkOOOkdlc;:clccl:cxddoddoodddddddxkOOkxdddxxxxkxxl                
-       lOOOOOOOkxxkOkkxxkOOkkxOOkxxkOOOOOOkooc::cllllcoxkkxdooodxxddddddxkkkxddxxkOOOkl                
-       lOOOOOOOOxxxxxxxxkOOkkxkkkxxkkO00OOkxoc::cllllodxkkxxdoodxxddxkxdddxxkxxkOO0000o                
-       lOOOOOOOkxxkxxkkxxxkxxOOkxxxkO000OOOkxl:::lllldxxxxxxooooddddxkxxdddddxxk000000o                
-       lOOOOOOOkxxOkxxxxkxxxOOOOxxxxxkOOOOkddoccclllloxxxxxdoooodxxxxxdddkxdxxxkO00000d                
-       lOOOOkxxxxkkOkxxkOOOxkOOkxxxkkxkkkxddddc::cllo;,cooodddoodxkxdxkxdddxkkxkO00000d                
-       ckkkxxxdddddddxdxkOOkkOOkxxxxxxxxddddxdc::ccld;...'',;::coxxxxkkkdddkOkkxxkO000d                
-       cdxxxkkxxkkkxxxxdxkkkxkOkdddxkkkkdollddccccodl'...........;ddxkkxoodddxxxxxxOO0o                
-       cddxkkkkkkkkxdkkxddkxddxddddkOkxdl;''ooc:codl'.............odxkxdddodxkxxxkkxkkl                
-       cddxkkkkkkkxddxxddddxkkxddddxko:,'...;:::cc:'..............;odddoxxdddxkkkOOOkxl                
-       cddkkkkkkkkxddddddddxkOOxddddo'.......,::::;................ldooodddodxkkkkOOkxl                
-       cdxkkkxxdddddxkxdddddkkkxddddl........'cl;;'................'ldoodxddddxxkkkOOkl                
-       cddddxxxdddxkkxxddxddxkkxdddxd'.......'ll;;...................;lodkkxxdddddxkOkl                
-       cdddxkkkxddxkkxddxxdddkkxdddxd,.......'::;,,:ccc:'.............':okkOOkddddddxxl                
-       cdxkkkkkxdodxkxddxdddxxkxdddxd;........;,,'.;:ccc:,...............okOOkxxkkkkxxl                
-       cddxkkkxdoddxxxdxdddxxxxxddxxd;........;,,..';::ccc...............ckkxxdxkxkOOkl                
-       cdddxxxddxxxdoooodxkxxdddddxddl'.......,,'......';;...............;xxxdxxxxkOOkl                
-       cxxddddxxkkxdooodxkkOkxddddddxd,.......,,'............''..........;ddxkkxdddkxxl                
-       cxxxdddxxxxxddodxxkkkkkxddddxkd;...,...,,'......................,coodxkkkxdodxko                
-       cxkxddxkkkkkxdooxxkkOkkxxdddxxl'.......,'...............coolodddxxooddxxxxdodxkl                
-       cxxxddxkkkkkxdooodkkkxxxddolc:'........,'...............ldddddxxddoodxxxxxxddkOo                
-       cxxdddxxxxxxxooddddxdxxxddllc:'........'................cdddddddddoodxxxxxxddxko                
-       cxxdodxxxxxxxoodxdddxkkxxdoclc,..''...','...............;ddddddddddodxxxxxxddxko                
-       cdddoodxxxxxdoodddddxkkxddolcccldo,...,;'................ldddddddddddxxxxxxdddkl                
-       :dxdodxxxxxxdoodoodddxkdddoodooooc....,;'................cddddddddddddddddddddxl                
-       :dddodxxxxxxxdooodxxddddooooodddo;...';;'................:dddddddddddxxxxxxxddxl                
-       :ddoodxxxxxxdooodxxxddooooooddddl,...,;;'................,dddddddddddxxxxxxxdddc                
-       :ddoodxxxxxxdoodddddddoooooddxxo,....;;;,.................oddddddddddxxxxxxxdddc                
-       :oooooddddddoooooddddooooooddddl.....;:;,.................ldddddddddddxxxxxxdddc'
-</pre>
 
 </div>
