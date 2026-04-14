@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
 
 <!-- HEADER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:1a0000,100:0d0d0d&height=200&section=header&text=AADITYA%20JAISWAR&fontSize=55&fontColor=ff0000&fontAlignY=55&desc=SDE%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20DEVOPS&descAlignY=78&descSize=18&descColor=ffffff&animation=twinkling&stroke=ff0000&strokeWidth=2" />
@@ -16,6 +16,12 @@
   </a>
   <a href="mailto:aadityaaaaa.jaiswar@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-CONTACT-FF0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d" />
+  </a>
+  <a href="https://www.youtube.com/@aad1tyaaaaa">
+    <img src="https://img.shields.io/badge/YOUTUBE-AAD1TYAAAAA-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d0d0d" />
+  </a>
+  <a href="https://www.kaggle.com/aadityajaiswar">
+    <img src="https://img.shields.io/badge/KAGGLE-AADITYAJAISWAR-FF0000?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0d0d0d" />
   </a>
   <a href="tel:+917710024884">
     <img src="https://img.shields.io/badge/PHONE-%2B91%207710024884-FF0000?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d0d0d" />
@@ -367,6 +373,14 @@ philosophy  = "Build systems that think, scale, and heal — one commit at a tim
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aad1tyaaaaa&layout=compact&theme=dark&bg_color=0d0d0d&title_color=ff0000&text_color=ffffff&border_color=ff0000&langs_count=10" width="50%" />
 
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/harshchi19/harshchi19/output/github-contribution-grid-snake.svg" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1a0000&height=100&section=header&text=VAMP+LIFE&fontSize=40&fontColor=ff0000&animation=fadeIn&stroke=ff0000&strokeWidth=2" width="100%" />
+
 </div>
 
 ---
@@ -375,7 +389,7 @@ philosophy  = "Build systems that think, scale, and heal — one commit at a tim
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=aad1tyaaaaa&theme=radical&no-frame=false&no-bg=false&margin-w=6&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=aad1tyaaaaa&theme=darkhub&no-frame=false&no-bg=false&margin-w=6&row=1&column=7&border=ff0000&rank=-" />
 
 </div>
 
@@ -401,7 +415,9 @@ philosophy  = "Build systems that think, scale, and heal — one commit at a tim
 📱  +91 77100 24884
 💼  linkedin.com/in/aadityaaaaa
 🐙  github.com/aad1tyaaaaa
-📍  Mumbai, India 🇮🇳
+�  youtube.com/@aad1tyaaaaa
+📊  kaggle.com/aadityajaiswar
+�📍  Mumbai, India 🇮🇳
 ```
 
 ---
