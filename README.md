@@ -375,7 +375,7 @@ philosophy  = "Build systems that think, scale, and heal — one commit at a tim
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/harshchi19/harshchi19/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/harshchi19/harshchi19/output/github-contribution-grid-snake.svg#gh-dark-mode-only" />
 
 <br/><br/>
 
@@ -389,7 +389,7 @@ philosophy  = "Build systems that think, scale, and heal — one commit at a tim
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=aad1tyaaaaa&theme=darkhub&no-frame=false&no-bg=false&margin-w=6&row=1&column=7&border=ff0000&rank=-" />
+<img src="https://github-profile-trophy.vercel.app/?username=aad1tyaaaaa&theme=flat&no-frame=false&no-bg=true&margin-w=6&row=1&column=7&border=ff0000&rank=-&title_color=ff0000&text_color=ffffff&icon_color=ff0000" />
 
 </div>
 
