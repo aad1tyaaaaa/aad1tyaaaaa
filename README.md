@@ -366,7 +366,7 @@ philosophy  = "Build systems that think, scale, and heal — one commit at a tim
 <div align="center">
 
 <!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=aad1tyaaaaa&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000&hide_border=false&count_private=true" width="48%" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTNsNDZhMjdqMjg3ZWxqM2J3dnc1cmhxcTFyYnpjamthdGcxMXVnNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWA5ajLKqvNkOZoHQo/giphy.gif" />
 
 <!-- GitHub Streak Stats (Updated Endpoint) -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aad1tyaaaaa&theme=dark&background=0d0d0d&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&sideLabels=ffffff&sideNums=ffffff&border=ff0000" width="48%" />
@@ -378,7 +378,6 @@ philosophy  = "Build systems that think, scale, and heal — one commit at a tim
 
 <br/><br/>
 
-<!-- Contribution Snake Animation -->
 <!-- Note: This requires a GitHub Action to generate the file in your repository -->
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTY2c2lqODJ4ZnZwZ25lYTRsYTVsa2p4bWl6dGIwbHNrNHU1eWgydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9ADoZQgs0tyww/giphy.gif" />
 
