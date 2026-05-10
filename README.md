@@ -373,8 +373,7 @@ philosophy  = "Build systems that think, scale, and heal — one commit at a tim
 
 <br/><br/>
 
-<!-- Top Languages Card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aad1tyaaaaa&layout=compact&theme=dark&bg_color=0d0d0d&title_color=ff0000&text_color=ffffff&border_color=ff0000&langs_count=10" width="50%" />
+<!-- Top Languages Card --> 
 
 <br/><br/>
 
