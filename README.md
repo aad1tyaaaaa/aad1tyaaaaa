@@ -363,26 +363,31 @@ philosophy  = "Build systems that think, scale, and heal — one commit at a tim
 ---
 
 ## `[ 📊 GITHUB STATS ]`
-
 <div align="center">
 
+<!-- GitHub Stats Card -->
 <img src="https://github-readme-stats.vercel.app/api?username=aad1tyaaaaa&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000&hide_border=false&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aad1tyaaaaa&theme=dark&background=0d0d0d&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&sideLabels=ff0000&border=ff0000" width="48%" />
+
+<!-- GitHub Streak Stats (Updated Endpoint) -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aad1tyaaaaa&theme=dark&background=0d0d0d&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&sideLabels=ffffff&sideNums=ffffff&border=ff0000" width="48%" />
 
 <br/><br/>
 
+<!-- Top Languages Card -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aad1tyaaaaa&layout=compact&theme=dark&bg_color=0d0d0d&title_color=ff0000&text_color=ffffff&border_color=ff0000&langs_count=10" width="50%" />
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/harshchi19/harshchi19/output/github-contribution-grid-snake.svg#gh-dark-mode-only" />
+<!-- Contribution Snake Animation -->
+<!-- Note: This requires a GitHub Action to generate the file in your repository -->
+<img src="https://raw.githubusercontent.com/aad1tyaaaaa/aad1tyaaaaa/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1a0000&height=100&section=header&text=VAMP+LIFE&fontSize=40&fontColor=ff0000&animation=fadeIn&stroke=ff0000&strokeWidth=2" width="100%" />
+<!-- Header/Footer Banner -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=100&section=header&text=VAMP+LIFE&fontSize=40&fontColor=ff0000&animation=fadeIn&stroke=ff0000&strokeWidth=2" width="100%" />
 
 </div>
-
 ---
 
 ## `[ 🏅 GITHUB TROPHIES ]`
