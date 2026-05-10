@@ -438,7 +438,7 @@ philosophy  = "Build systems that think, scale, and heal — one commit at a tim
 <br/>
 <br/>
 
-![Gameplay Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejJ1cnFocnlhMHdwMmF4dnNoYzE4MWFhNGQ0M2wxdDYybjRyMzllaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QuOOIk9CJ72ll2grVn/giphy.gif)
+![Gameplay Demo](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzA5OXF0ODNwNWl5MG92a3V2dTExOGJkamltYW52dDV2cTI3YTFlZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GQZ2ze6FecQMbEnofV/giphy.gif)
 
 <br/>
 
