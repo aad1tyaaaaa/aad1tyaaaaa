@@ -380,7 +380,7 @@ philosophy  = "Build systems that think, scale, and heal — one commit at a tim
 
 <!-- Contribution Snake Animation -->
 <!-- Note: This requires a GitHub Action to generate the file in your repository -->
-<img src="https://raw.githubusercontent.com/aad1tyaaaaa/aad1tyaaaaa/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTY2c2lqODJ4ZnZwZ25lYTRsYTVsa2p4bWl6dGIwbHNrNHU1eWgydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9ADoZQgs0tyww/giphy.gif" />
 
 <br/><br/>
 
