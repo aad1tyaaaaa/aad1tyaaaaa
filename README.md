@@ -436,6 +436,11 @@ philosophy  = "Build systems that think, scale, and heal — one commit at a tim
 *"Building systems that think, scale, and heal — one commit at a time."*
 
 <br/>
+<br/>
+
+![Gameplay Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejJ1cnFocnlhMHdwMmF4dnNoYzE4MWFhNGQ0M2wxdDYybjRyMzllaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QuOOIk9CJ72ll2grVn/giphy.gif)
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a0000,50:0d0d0d,100:1a0000&height=120&section=footer&text=WHOLE+LOTTA+RED&fontSize=30&fontColor=ff0000&fontAlignY=55&animation=twinkling&stroke=ff0000&strokeWidth=1" />
 
