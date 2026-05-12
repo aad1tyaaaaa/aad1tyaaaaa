@@ -365,8 +365,7 @@ philosophy  = "Build systems that think, scale, and heal — one commit at a tim
 ## `[ 📊 GITHUB STATS ]`
 <div align="center">
 
-<!-- GitHub Stats Card -->
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTNsNDZhMjdqMjg3ZWxqM2J3dnc1cmhxcTFyYnpjamthdGcxMXVnNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWA5ajLKqvNkOZoHQo/giphy.gif" />
+<!-- GitHub Stats Card --
 <br/><br/>
 <!-- GitHub Streak Stats (Updated Endpoint) -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aad1tyaaaaa&theme=dark&background=0d0d0d&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&sideLabels=ffffff&sideNums=ffffff&border=ff0000" width="48%" />
