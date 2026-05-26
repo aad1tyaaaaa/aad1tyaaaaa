@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.demolab.com?font=Fragment+Mono&weight=900&size=18&duration=2000&pause=500&color=FF0000&center=true&vCenter=true&width=800&height=50&lines=%E2%96%88+FULL+STACK+ENGINEER+%E2%96%88+MULTI-AGENT+AI+ARCHITECT;%E2%96%88+LLM+SYSTEMS+%E2%96%88+RAG+PIPELINES+%E2%96%88+LANGGRAPH;%E2%96%88+EVENT-DRIVEN+MICROSERVICES+%E2%96%88+KAFKA+%E2%96%88+FASTAPI;%E2%96%88+NATIONAL+HACKATHON+WINNER+%E2%96%88+MUMBAI+%F0%9F%87%AE%F0%9F%87%B3;%E2%96%88+BUILDING+SYSTEMS+THAT+THINK%2C+SCALE%2C+AND+HEAL+%E2%96%88" alt="Typing SVG" />
-<p align="right"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/414.gif" height="40" /></p>
+<p align="right"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/658.gif" height="40" /></p>
 <!-- CONTACT BADGES -->
 <p>
   <a href="https://linkedin.com/in/aadityaaaaa">
@@ -31,7 +31,7 @@
 <img src="https://komarev.com/ghpvc/?username=aad1tyaaaaa&label=PROFILE+VIEWS&color=ff0000&style=for-the-badge&labelColor=0d0d0d" />
 
 </div>
-<p align="left"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/27.gif" height="40" /></p>
+<p align="left"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/392.gif" height="40" /></p>
 ## `[ 👤 ABOUT ME ]`
 <p align="right"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/506.gif" height="40" /></p>
 > *"I architect multi-agent AI systems that autonomously negotiate freight rates, and build cross-platform health ecosystems that win ₹1,0,000 national prizes. Code that thinks. Infrastructure that scales. Products that matter."* <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/287.gif" height="35" align="left" />
