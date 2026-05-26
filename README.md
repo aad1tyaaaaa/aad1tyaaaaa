@@ -1,6 +1,5 @@
 <div align="center">
-<p align="left"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/392.gif" height="80" /></p>
-
+<p align="left"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/10034.gif" height="80" /></p>
 <!-- HEADER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:1a0000,100:0d0d0d&height=200&section=header&text=AADITYA%20JAISWAR&fontSize=55&fontColor=ff0000&fontAlignY=55&desc=SDE%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20DEVOPS&descAlignY=78&descSize=18&descColor=ffffff&animation=twinkling&stroke=ff0000&strokeWidth=2" />
 
@@ -30,10 +29,12 @@
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=aad1tyaaaaa&label=PROFILE+VIEWS&color=ff0000&style=for-the-badge&labelColor=0d0d0d" />
-
+ <p align="right"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/250.gif" height="80" /></p>
 </div>
 
+
 ## `[ 👤 ABOUT ME ]`
+<p align="left"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/392.gif" height="80" /></p>
 
 > *"I architect multi-agent AI systems that autonomously negotiate freight rates, and build cross-platform health ecosystems that win ₹1,0,000 national prizes. Code that thinks. Infrastructure that scales. Products that matter."*
 
@@ -69,10 +70,11 @@ open_to     = ["SDE Roles", "AI/ML Engineering", "Full-Stack Opportunities"]
 contact     = "aadityaaaaa.jaiswar@gmail.com"
 philosophy  = "Build systems that think, scale, and heal — one commit at a time."
 ```
-
+<p align="right"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/643.gif" height="80" /></p>
 ---
 
 ## `[ 🏢 EXPERIENCE ]`
+<p align="left"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/1020.gif" height="80" /></p>
 
 <details>
 <summary><b>🔴 Periscope Technologies — Software Development Engineer Intern &nbsp;&nbsp; <code>Feb 2026 → Present</code></b></summary>
@@ -164,12 +166,14 @@ philosophy  = "Build systems that think, scale, and heal — one commit at a tim
 **Stack:** `Python` `HuggingFace` `PEFT` `LoRA` `Apache Airflow` `PyTorch` `Pandas`
 
 </details>
-
+<p align="right"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/10078.gif" height="80" /></p>
 ---
 
 ## `[ 🚀 PROJECTS ]`
 
+
 ### `📦 Asset Tracking System`
+
 > Enterprise-grade asset lifecycle management with real-time observability and production CI/CD.
 
 **Stack:** `Django` `Python` `PostgreSQL` `Redis` `React.js` `GitHub Actions` `Prometheus`
@@ -253,6 +257,7 @@ philosophy  = "Build systems that think, scale, and heal — one commit at a tim
 
 ▸ Won ₹1,00,000 cash prize at a national hackathon hosted by Periscope
   Technologies, competing against 200+ teams across India
+  
 ```
 
 [![GitHub](https://img.shields.io/badge/VIEW_PROJECT-0d0d0d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aad1tyaaaaa)
