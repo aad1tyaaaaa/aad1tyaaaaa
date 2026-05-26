@@ -1,11 +1,12 @@
 <div align="center">
 <p align="left"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/10034.gif" height="40" /></p>
+
 <!-- HEADER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:1a0000,100:0d0d0d&height=200&section=header&text=AADITYA%20JAISWAR&fontSize=55&fontColor=ff0000&fontAlignY=55&desc=SDE%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20DEVOPS&descAlignY=78&descSize=18&descColor=ffffff&animation=twinkling&stroke=ff0000&strokeWidth=2" />
 
 <!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.demolab.com?font=Fragment+Mono&weight=900&size=18&duration=2000&pause=500&color=FF0000&center=true&vCenter=true&width=800&height=50&lines=%E2%96%88+FULL+STACK+ENGINEER+%E2%96%88+MULTI-AGENT+AI+ARCHITECT;%E2%96%88+LLM+SYSTEMS+%E2%96%88+RAG+PIPELINES+%E2%96%88+LANGGRAPH;%E2%96%88+EVENT-DRIVEN+MICROSERVICES+%E2%96%88+KAFKA+%E2%96%88+FASTAPI;%E2%96%88+NATIONAL+HACKATHON+WINNER+%E2%96%88+MUMBAI+%F0%9F%87%AE%F0%9F%87%B3;%E2%96%88+BUILDING+SYSTEMS+THAT+THINK%2C+SCALE%2C+AND+HEAL+%E2%96%88" alt="Typing SVG" />
-<p align="right"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/658.gif" height="40" /></p>
+
 <!-- CONTACT BADGES -->
 <p>
   <a href="https://linkedin.com/in/aadityaaaaa">
@@ -31,10 +32,10 @@
 <img src="https://komarev.com/ghpvc/?username=aad1tyaaaaa&label=PROFILE+VIEWS&color=ff0000&style=for-the-badge&labelColor=0d0d0d" />
 
 </div>
-<p align="left"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/392.gif" height="40" /></p>
+
 ## `[ 👤 ABOUT ME ]`
-<p align="right"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/506.gif" height="40" /></p>
-> *"I architect multi-agent AI systems that autonomously negotiate freight rates, and build cross-platform health ecosystems that win ₹1,0,000 national prizes. Code that thinks. Infrastructure that scales. Products that matter."* <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/287.gif" height="35" align="left" />
+
+> *"I architect multi-agent AI systems that autonomously negotiate freight rates, and build cross-platform health ecosystems that win ₹1,0,000 national prizes. Code that thinks. Infrastructure that scales. Products that matter."*
 
 ```yaml
 name         : Aaditya Jaiswar
@@ -46,7 +47,7 @@ institution  : Shah & Anchor Kutchhi Engineering College, Mumbai
 gpa          : 8.72 / 10.0
 status       : SDE Intern @ Periscope Technologies  [Feb 2026 → Present]
 ```
-<p align="right"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/272.gif" height="40" /></p>
+
 ```python
 currently_building = {
     "AI Systems"        : ["LangGraph stateful agents", "RAG pipelines", "FAISS vector memory"],
@@ -71,14 +72,14 @@ philosophy  = "Build systems that think, scale, and heal — one commit at a tim
 
 ---
 
-## `[ 🏢 EXPERIENCE ]` <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/499.gif" height="35" align="left" />
+## `[ 🏢 EXPERIENCE ]`
 
 <details>
 <summary><b>🔴 Periscope Technologies — Software Development Engineer Intern &nbsp;&nbsp; <code>Feb 2026 → Present</code></b></summary>
 <br>
-<p align="right"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/2.gif" height="40" /></p>
+
 > Healthcare infrastructure engineering — IoT-driven, microservice-first, security-hardened.
-<p align="left"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/122.gif" height="40" /></p>
+
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║  🔐  Role-Based Access Control (RBAC) & Clinical Security                    ║
@@ -102,18 +103,18 @@ philosophy  = "Build systems that think, scale, and heal — one commit at a tim
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
-**Stack:** `FastAPI` `Kafka` `Celery` `Redis` `JWT` `PostgreSQL` `Docker` `IoT` <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/363.gif" height="35" align="right" />
+**Stack:** `FastAPI` `Kafka` `Celery` `Redis` `JWT` `PostgreSQL` `Docker` `IoT`
 
 </details>
 
 ---
-<p align="left"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/360.gif" height="40" /></p>
+
 <details>
 <summary><b>🟠 Bluestock Fintech — Software Development Engineer Intern &nbsp;&nbsp; <code>Oct 2025 → Nov 2025</code></b></summary>
 <br>
-<p align="right"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/246.gif" height="40" /></p>
+
 > Full-stack engineering on a high-compliance financial platform handling IPO data and investor workflows.
-<p align="left"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/253.gif" height="40" /></p>
+
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║  🏗️   Full-Stack IPO Management Platform                                      ║
@@ -134,15 +135,15 @@ philosophy  = "Build systems that think, scale, and heal — one commit at a tim
 **Stack:** `React.js` `Django REST` `PostgreSQL` `OAuth 2.0` `JWT` `Redis`
 
 </details>
-<p align="right"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/67.gif" height="40" /></p>
+
 ---
-<p align="left"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/125.gif" height="40" /></p>
+
 <details>
 <summary><b>🟣 Ibtidaa Tech — Artificial Intelligence Intern &nbsp;&nbsp; <code>Jul 2025 → Aug 2025</code></b></summary>
 <br>
 
 > LLM fine-tuning and automated ML pipeline engineering for domain-specific NLP applications.
-<p align="right"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/413.gif" height="40" /></p>
+
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║  🧠  LLM Fine-Tuning & Contextual Accuracy Optimization                       ║
@@ -159,20 +160,20 @@ philosophy  = "Build systems that think, scale, and heal — one commit at a tim
 ║         parallelized scoring jobs and automated reporting dashboards         ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
-<p align="left"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/126.gif" height="40" /></p>
+
 **Stack:** `Python` `HuggingFace` `PEFT` `LoRA` `Apache Airflow` `PyTorch` `Pandas`
-<p align="right"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/36.gif" height="40" /></p>
+
 </details>
 
 ---
 
 ## `[ 🚀 PROJECTS ]`
-<p align="left"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/180.gif" height="40" /></p>
-### `📦 Asset Tracking System` <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/209.gif" height="35" align="right" />
+
+### `📦 Asset Tracking System`
 > Enterprise-grade asset lifecycle management with real-time observability and production CI/CD.
 
-**Stack:** `Django` `Python` `PostgreSQL` `Redis` `React.js` `GitHub Actions` `Prometheus` <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/642.gif" height="35" align="left" />
-<p align="right"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/526.gif" height="40" /></p>
+**Stack:** `Django` `Python` `PostgreSQL` `Redis` `React.js` `GitHub Actions` `Prometheus`
+
 ```
 ▸ Built a scalable multi-location asset tracking platform using Django ORM with
   full CRUD operations, optimized via select_related / prefetch_related to
@@ -194,10 +195,10 @@ philosophy  = "Build systems that think, scale, and heal — one commit at a tim
 [![GitHub](https://img.shields.io/badge/VIEW_PROJECT-0d0d0d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aad1tyaaaaa)
 
 ---
-<p align="left"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/116.gif" height="40" /></p>
+
 ### `🤝 Negotiara AI — Stateful Multi-Agent Freight Negotiation System`
-> Autonomous AI agents that negotiate B2B freight pricing in real-time using RAG-augmented decision logic. <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/619.gif" height="35" align="right" />
-<p align="left"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/352.gif" height="40" /></p>
+> Autonomous AI agents that negotiate B2B freight pricing in real-time using RAG-augmented decision logic.
+
 **Stack:** `FastAPI` `LangGraph` `Next.js` `Redis` `Supabase` `Groq (Llama-3)` `FAISS` `Socket.io` `Node.js`
 
 ```
@@ -221,14 +222,14 @@ philosophy  = "Build systems that think, scale, and heal — one commit at a tim
 ```
 
 [![GitHub](https://img.shields.io/badge/VIEW_PROJECT-0d0d0d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aad1tyaaaaa)
-<p align="right"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/366.gif" height="40" /></p>
+
 ---
 
-### `🏥 ArogyaSense — AI-Powered Cross-Platform Health Ecosystem` &nbsp; 🏆 `₹1,00,000 NATIONAL WINNER` <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/280.gif" height="35" align="left" />
-> A modular, HIPAA-aware health management app combining LLM-driven diagnostics with a production-grade serverless backend. <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/614.gif" height="35" align="right" />
+### `🏥 ArogyaSense — AI-Powered Cross-Platform Health Ecosystem` &nbsp; 🏆 `₹1,00,000 NATIONAL WINNER`
+> A modular, HIPAA-aware health management app combining LLM-driven diagnostics with a production-grade serverless backend.
 
 **Stack:** `Flutter` `Dart` `Firebase` `Firestore` `Provider` `Groq API` `LLM`
-<p align="left"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/115.gif" height="40" /></p>
+
 ```
 ▸ Architected a cross-platform Flutter application using a modular
   feature-based folder structure — clean separation of data, domain, and
@@ -255,10 +256,10 @@ philosophy  = "Build systems that think, scale, and heal — one commit at a tim
 ```
 
 [![GitHub](https://img.shields.io/badge/VIEW_PROJECT-0d0d0d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aad1tyaaaaa)
-<p align="right"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/443.gif" height="40" /></p>
+
 ---
 
-## `[ 🛠️ TECH STACK ]` <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/379.gif" height="35" align="left" />
+## `[ 🛠️ TECH STACK ]`
 
 ### `👨‍💻 Languages`
 ![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=FF0000)
@@ -268,7 +269,7 @@ philosophy  = "Build systems that think, scale, and heal — one commit at a tim
 ![Go](https://img.shields.io/badge/Go-0d0d0d?style=for-the-badge&logo=go&logoColor=FF0000)
 ![SQL](https://img.shields.io/badge/SQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=FF0000)
 ![Dart](https://img.shields.io/badge/Dart-0d0d0d?style=for-the-badge&logo=dart&logoColor=FF0000)
-<p align="right"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/127.gif" height="40" /></p>
+
 ### `🧩 Frameworks & Libraries`
 ![React](https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=react&logoColor=FF0000)
 ![Next.js](https://img.shields.io/badge/Next.js-0d0d0d?style=for-the-badge&logo=nextdotjs&logoColor=FF0000)
@@ -284,7 +285,7 @@ philosophy  = "Build systems that think, scale, and heal — one commit at a tim
 ![Flask](https://img.shields.io/badge/Flask-0d0d0d?style=for-the-badge&logo=flask&logoColor=FF0000)
 ![Express.js](https://img.shields.io/badge/Express-0d0d0d?style=for-the-badge&logo=express&logoColor=FF0000)
 ![GSAP](https://img.shields.io/badge/GSAP-0d0d0d?style=for-the-badge&logo=greensock&logoColor=FF0000)
-<p align="left"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/111.gif" height="40" /></p>
+
 ### `🗄️ Databases & Storage`
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=FF0000)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0d0d0d?style=for-the-badge&logo=mongodb&logoColor=FF0000)
@@ -292,8 +293,8 @@ philosophy  = "Build systems that think, scale, and heal — one commit at a tim
 ![Firebase](https://img.shields.io/badge/Firebase-0d0d0d?style=for-the-badge&logo=firebase&logoColor=FF0000)
 ![Supabase](https://img.shields.io/badge/Supabase-0d0d0d?style=for-the-badge&logo=supabase&logoColor=FF0000)
 ![Redis](https://img.shields.io/badge/Redis-0d0d0d?style=for-the-badge&logo=redis&logoColor=FF0000)
-<p align="right"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/607.gif" height="40" /></p>
-### `🤖 AI / ML` <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/372.gif" height="35" align="left" />
+
+### `🤖 AI / ML`
 ![PyTorch](https://img.shields.io/badge/PyTorch-0d0d0d?style=for-the-badge&logo=pytorch&logoColor=FF0000)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0d0d0d?style=for-the-badge&logo=tensorflow&logoColor=FF0000)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-0d0d0d?style=for-the-badge&logo=scikit-learn&logoColor=FF0000)
@@ -317,9 +318,9 @@ philosophy  = "Build systems that think, scale, and heal — one commit at a tim
 ![Linux](https://img.shields.io/badge/Linux-0d0d0d?style=for-the-badge&logo=linux&logoColor=FF0000)
 ![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=FF0000)
 ![Celery](https://img.shields.io/badge/Celery-0d0d0d?style=for-the-badge&logo=celery&logoColor=FF0000)
-<p align="right"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/334.gif" height="40" /></p>
+
 ---
-<p align="left"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/420.gif" height="40" /></p>
+
 ## `[ 🏆 ACHIEVEMENTS — HALL OF FAME ]`
 
 ```
@@ -327,7 +328,7 @@ philosophy  = "Build systems that think, scale, and heal — one commit at a tim
 │                                                                                 │
 │  🥇  1ST PLACE — National Healthcare Hackathon                                  │
 │      Project: ArogyaSense — AI-Powered Health Ecosystem                         │
-│      Prize: ₹1,0,000 Cash  ·  Host: Periscope Technologies                    │
+│      Prize: ₹1,00,000 Cash  ·  Host: Periscope Technologies                    │
 │      Competed against 200+ teams across India                                   │
 │                                                                                 │
 │  🥉  2ND RUNNER-UP — DEEP BLUE National AI Hackathon                            │
@@ -346,26 +347,26 @@ philosophy  = "Build systems that think, scale, and heal — one commit at a tim
 │                                                                                 │
 └─────────────────────────────────────────────────────────────────────────────────┘
 ```
-<p align="right"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/17.gif" height="40" /></p>
+
 ---
 
 ## `[ 📊 GITHUB STATS ]`
 <div align="center">
-<p align="left"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/226.gif" height="40" /></p>
+
 <!-- GitHub Stats Card -->
 <br/><br/>
 <!-- GitHub Streak Stats (Updated Endpoint) -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aad1tyaaaaa&theme=dark&background=0d0d0d&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&sideLabels=ffffff&sideNums=ffffff&border=ff0000" width="48%" />
-<p align="right"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/325.gif" height="40" /></p>
+
 <br/><br/>
 
 <!-- Top Languages Card --> 
 
 <br/><br/>
-<p align="left"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/69.gif" height="40" /></p>
+
 <!-- Note: This requires a GitHub Action to generate the file in your repository -->
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTY2c2lqODJ4ZnZwZ25lYTRsYTVsa2p4bWl6dGIwbHNrNHU1eWgydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9ADoZQgs0tyww/giphy.gif" />
-<p align="right"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/148.gif" height="40" /></p>
+
 <br/><br/>
 
 <!-- Header/Footer Banner -->
@@ -374,29 +375,29 @@ philosophy  = "Build systems that think, scale, and heal — one commit at a tim
 </div>
 ---
 
-## `[ 🏅 GITHUB TROPHIES ]` <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/591.gif" height="35" align="left" />
+## `[ 🏅 GITHUB TROPHIES ]`
 
 <div align="center">
-<p align="right"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/271.gif" height="40" /></p>
+
 <img src="https://github-profile-trophy.vercel.app/?username=aad1tyaaaaa&theme=flat&no-frame=false&no-bg=true&margin-w=6&row=1&column=7&border=ff0000&rank=-&title_color=ff0000&text_color=ffffff&icon_color=ff0000" />
 
 </div>
-<p align="left"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/8.gif" height="40" /></p>
+
 ---
-<p align="right"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/629.gif" height="40" /></p>
+
 ## `[ 📈 CONTRIBUTION GRAPH ]`
 
 <div align="center">
-<p align="left"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/490.gif" height="40" /></p>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aad1tyaaaaa&theme=redical&bg_color=0d0d0d&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=false" />
 
 </div>
-<p align="right"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/442.gif" height="40" /></p>
+
 ---
 
-## `[ 📬 LET'S CONNECT ]` <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/297.gif" height="35" align="left" />
+## `[ 📬 LET'S CONNECT ]`
 
-> I'm actively looking for **SDE**, **AI/ML Engineering**, and **Full-Stack** opportunities. <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/488.gif" height="35" align="right" />
+> I'm actively looking for **SDE**, **AI/ML Engineering**, and **Full-Stack** opportunities.
 > Whether you're building at the intersection of infrastructure and intelligence — let's talk.
 
 ```
@@ -408,11 +409,11 @@ philosophy  = "Build systems that think, scale, and heal — one commit at a tim
 📊  kaggle.com/aadityajaiswar
 📍  Mumbai, India 🇮🇳
 ```
-<p align="left"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/65.gif" height="40" /></p>
+
 ---
 
 <div align="center">
-<p align="right"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/58.gif" height="40" /></p>
+
 ```
 ██████╗ ███████╗██████╗     ██╗███████╗    ██╗   ██╗██████╗ 
 ██╔══██╗██╔════╝██╔══██╗    ██║██╔════╝    ██║   ██║██╔══██╗
@@ -430,8 +431,8 @@ philosophy  = "Build systems that think, scale, and heal — one commit at a tim
 ╚███╔███╔╝██║  ██║╚██████╔╝    ███████╚██████╔╝   ██║      ██║   ██║  ██║    ██║  ██║███████╗██████╔╝
  ╚══╝╚══╝ ╚═╝  ╚═╝ ╚═════╝     ╚══════ ╚═════╝    ╚═╝      ╚═╝   ╚═╝  ╚═╝    ╚═╝  ╚═╝╚══════╝╚═════╝
 ```
-*"Building systems that think, scale, and heal — one commit at a time."* <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/328.gif" height="35" align="left" />
-<p align="right"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/291.gif" height="40" /></p>
+*"Building systems that think, scale, and heal — one commit at a time."*
+
 <br/>
 <br/>
 
@@ -440,5 +441,5 @@ philosophy  = "Build systems that think, scale, and heal — one commit at a tim
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a0000,50:0d0d0d,100:1a0000&height=120&section=footer&text=WHOLE+LOTTA+RED&fontSize=30&fontColor=ff0000&fontAlignY=55&animation=twinkling&stroke=ff0000&strokeWidth=1" />
-<p align="left"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/225.gif" height="40" /></p>
+
 </div>
