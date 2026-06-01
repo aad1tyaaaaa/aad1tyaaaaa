@@ -29,7 +29,7 @@
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=aad1tyaaaaa&label=PROFILE+VIEWS&color=ff0000&style=for-the-badge&labelColor=0d0d0d" />
- <p align="right"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/250.gif" height="80" /></p>
+ <p align="right"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/392.gif" height="80" /></p>
 </div>
 
 
