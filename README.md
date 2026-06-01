@@ -34,7 +34,7 @@
 
 
 ## `[ 👤 ABOUT ME ]`
-<p align="left"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/392.gif" height="80" /></p>
+<p align="left"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/10117.gif" height="80" /></p>
 
 > *"I architect multi-agent AI systems that autonomously negotiate freight rates, and build cross-platform health ecosystems that win ₹1,0,000 national prizes. Code that thinks. Infrastructure that scales. Products that matter."*
 
