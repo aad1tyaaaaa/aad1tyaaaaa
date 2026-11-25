@@ -20,7 +20,7 @@
 
 ---
 
-I build AI agents, backend systems, and full-stack products: from LLM fine-tuning and agent debugging tools to quantum ML on satellite imagery. Currently an **SDE Intern at Periscope Technologies**. B.Tech in Electronics & Computer Science, SAKEC Mumbai (GPA 8.72).
+I build AI agents, backend systems, and full-stack products: from LLM fine-tuning and agent debugging tools to quantum ML on satellite imagery. Currently an **SDE Intern at Periscope Technologies**.
 
 <div align="center">
 <img src="./assets/mid.gif" width="600" alt="" />
