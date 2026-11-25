@@ -28,16 +28,45 @@ I build AI agents, backend systems, and full-stack products: from LLM fine-tunin
 
 ### Tech Stack
 
-| Area | Tools |
-|:--|:--|
-| **Languages** | <img src="https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-0d0d0d?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/Go-0d0d0d?style=for-the-badge&logo=go&logoColor=white" /> |
-| **Backend** | <img src="https://img.shields.io/badge/FastAPI-0d0d0d?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-0d0d0d?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/GraphQL-0d0d0d?style=for-the-badge&logo=graphql&logoColor=white" /> <img src="https://img.shields.io/badge/Kafka-0d0d0d?style=for-the-badge&logo=apachekafka&logoColor=white" /> <img src="https://img.shields.io/badge/RabbitMQ-0d0d0d?style=for-the-badge&logo=rabbitmq&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-0d0d0d?style=for-the-badge&logo=redis&logoColor=white" /> |
-| **AI / ML** | <img src="https://img.shields.io/badge/PyTorch-0d0d0d?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-0d0d0d?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/scikit--learn-0d0d0d?style=for-the-badge&logo=scikitlearn&logoColor=white" /> <img src="https://img.shields.io/badge/HuggingFace-0d0d0d?style=for-the-badge&logo=huggingface&logoColor=white" /> <img src="https://img.shields.io/badge/PennyLane-0d0d0d?style=for-the-badge" /> |
-| **GenAI & Agents** | <img src="https://img.shields.io/badge/LangChain-0d0d0d?style=for-the-badge&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/LangGraph-0d0d0d?style=for-the-badge&logo=langgraph&logoColor=white" /> <img src="https://img.shields.io/badge/MCP-0d0d0d?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" /> <img src="https://img.shields.io/badge/vLLM-0d0d0d?style=for-the-badge&logo=vllm&logoColor=white" /> |
-| **Frontend & Mobile** | <img src="https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-0d0d0d?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/React_Native-0d0d0d?style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-0d0d0d?style=for-the-badge&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/GSAP-0d0d0d?style=for-the-badge&logo=greensock&logoColor=white" /> <img src="https://img.shields.io/badge/Framer_Motion-0d0d0d?style=for-the-badge&logo=framer&logoColor=white" /> <img src="https://img.shields.io/badge/WebGL-0d0d0d?style=for-the-badge&logo=webgl&logoColor=white" /> |
-| **Databases** | <img src="https://img.shields.io/badge/PostgreSQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-0d0d0d?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-0d0d0d?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-0d0d0d?style=for-the-badge&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-0d0d0d?style=for-the-badge&logo=firebase&logoColor=white" /> <img src="https://img.shields.io/badge/Qdrant-0d0d0d?style=for-the-badge&logo=qdrant&logoColor=white" /> <img src="https://img.shields.io/badge/Pinecone-0d0d0d?style=for-the-badge" /> |
-| **Cloud & DevOps** | <img src="https://img.shields.io/badge/AWS-0d0d0d?style=for-the-badge" /> <img src="https://img.shields.io/badge/Azure-0d0d0d?style=for-the-badge" /> <img src="https://img.shields.io/badge/GCP-0d0d0d?style=for-the-badge&logo=googlecloud&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-0d0d0d?style=for-the-badge&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/Airflow-0d0d0d?style=for-the-badge&logo=apacheairflow&logoColor=white" /> <img src="https://img.shields.io/badge/Prometheus-0d0d0d?style=for-the-badge&logo=prometheus&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-0d0d0d?style=for-the-badge&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=white" /> |
-| **Testing & Automation** | <img src="https://img.shields.io/badge/pytest-0d0d0d?style=for-the-badge&logo=pytest&logoColor=white" /> <img src="https://img.shields.io/badge/Jest-0d0d0d?style=for-the-badge&logo=jest&logoColor=white" /> <img src="https://img.shields.io/badge/Playwright-0d0d0d?style=for-the-badge" /> |
+<b>Languages</b>
+<br/>
+<img src="https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-0d0d0d?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/Go-0d0d0d?style=for-the-badge&logo=go&logoColor=white" />
+<br/><br/>
+
+<b>Backend</b>
+<br/>
+<img src="https://img.shields.io/badge/FastAPI-0d0d0d?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-0d0d0d?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/GraphQL-0d0d0d?style=for-the-badge&logo=graphql&logoColor=white" /> <img src="https://img.shields.io/badge/Kafka-0d0d0d?style=for-the-badge&logo=apachekafka&logoColor=white" /> <img src="https://img.shields.io/badge/RabbitMQ-0d0d0d?style=for-the-badge&logo=rabbitmq&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-0d0d0d?style=for-the-badge&logo=redis&logoColor=white" />
+<br/><br/>
+
+<b>AI / ML</b>
+<br/>
+<img src="https://img.shields.io/badge/PyTorch-0d0d0d?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-0d0d0d?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/scikit--learn-0d0d0d?style=for-the-badge&logo=scikitlearn&logoColor=white" /> <img src="https://img.shields.io/badge/HuggingFace-0d0d0d?style=for-the-badge&logo=huggingface&logoColor=white" /> <img src="https://img.shields.io/badge/PennyLane-0d0d0d?style=for-the-badge" />
+<br/><br/>
+
+<b>GenAI & Agents</b>
+<br/>
+<img src="https://img.shields.io/badge/LangChain-0d0d0d?style=for-the-badge&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/LangGraph-0d0d0d?style=for-the-badge&logo=langgraph&logoColor=white" /> <img src="https://img.shields.io/badge/MCP-0d0d0d?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" /> <img src="https://img.shields.io/badge/vLLM-0d0d0d?style=for-the-badge&logo=vllm&logoColor=white" />
+<br/><br/>
+
+<b>Frontend & Mobile</b>
+<br/>
+<img src="https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-0d0d0d?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/React_Native-0d0d0d?style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-0d0d0d?style=for-the-badge&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/GSAP-0d0d0d?style=for-the-badge&logo=greensock&logoColor=white" /> <img src="https://img.shields.io/badge/Framer_Motion-0d0d0d?style=for-the-badge&logo=framer&logoColor=white" /> <img src="https://img.shields.io/badge/WebGL-0d0d0d?style=for-the-badge&logo=webgl&logoColor=white" />
+<br/><br/>
+
+<b>Databases</b>
+<br/>
+<img src="https://img.shields.io/badge/PostgreSQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-0d0d0d?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-0d0d0d?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-0d0d0d?style=for-the-badge&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-0d0d0d?style=for-the-badge&logo=firebase&logoColor=white" /> <img src="https://img.shields.io/badge/Qdrant-0d0d0d?style=for-the-badge&logo=qdrant&logoColor=white" /> <img src="https://img.shields.io/badge/Pinecone-0d0d0d?style=for-the-badge" />
+<br/><br/>
+
+<b>Cloud & DevOps</b>
+<br/>
+<img src="https://img.shields.io/badge/AWS-0d0d0d?style=for-the-badge" /> <img src="https://img.shields.io/badge/Azure-0d0d0d?style=for-the-badge" /> <img src="https://img.shields.io/badge/GCP-0d0d0d?style=for-the-badge&logo=googlecloud&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-0d0d0d?style=for-the-badge&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/Airflow-0d0d0d?style=for-the-badge&logo=apacheairflow&logoColor=white" /> <img src="https://img.shields.io/badge/Prometheus-0d0d0d?style=for-the-badge&logo=prometheus&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-0d0d0d?style=for-the-badge&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=white" />
+<br/><br/>
+
+<b>Testing & Automation</b>
+<br/>
+<img src="https://img.shields.io/badge/pytest-0d0d0d?style=for-the-badge&logo=pytest&logoColor=white" /> <img src="https://img.shields.io/badge/Jest-0d0d0d?style=for-the-badge&logo=jest&logoColor=white" /> <img src="https://img.shields.io/badge/Playwright-0d0d0d?style=for-the-badge" />
+<br/><br/>
 
 <div align="center">
 <br/>
