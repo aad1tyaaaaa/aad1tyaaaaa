@@ -15,6 +15,7 @@
 <a href="https://linkedin.com/in/aadityaaaaa"><img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge" /></a>
 <a href="mailto:aadityaaaaa.jaiswar@gmail.com"><img src="https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.youtube.com/@aad1tyaaaaa"><img src="https://img.shields.io/badge/YouTube-0d0d0d?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=aad1tyaaaaa&label=Profile+Views&color=ffffff&labelColor=0d0d0d&style=for-the-badge" alt="Profile views" />
 
 </div>
 
